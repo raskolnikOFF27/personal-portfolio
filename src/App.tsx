@@ -12,6 +12,9 @@ function App() {
         <button onClick={() => setCount((count) => count + 1)}>
           asd is {count}
         </button>
+
+        <p>asdasdasdasdasd</p>
+        <span>yooooooo</span>
       </div>
       <p className="read-the-docs"></p>
     </>
